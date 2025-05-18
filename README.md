@@ -87,3 +87,18 @@ src
 ### 4. **Test Result Summary by Category**
 
 ![Image](https://github.com/user-attachments/assets/3dbd65b2-0378-4d5f-ac9d-eaf8c1ea16ea)
+
+---
+
+## Manual Test Scenarios
+
+[Click here to view the Manual Test Scenarios on Google Sheets](https://docs.google.com/spreadsheets/d/1ec3i1ZXasSAbYCYFN6OKAooHTHegzGFI/edit?usp=sharing)
+
+This document includes test scenarios covering:
+
+- User Registration & Login  
+- Forgot Password functionality  
+- UI checks (font, text size, header responsiveness)  
+- Product size & color selection  
+- Add to Cart functionality  
+- Page navigation validations and more.
